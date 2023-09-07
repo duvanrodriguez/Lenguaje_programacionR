@@ -1,0 +1,49 @@
+Programación funcional en Python
+1.	Funciones como objeto de primero orden
+2.	Recursión sobre iteración
+3.	Procesamiento de listas
+4.	Funciones puras
+5.	Funciones de alto orden
+6.	Funciones lambda
+
+•	Paradigma estructural
+o	Ciclos
+o	Condicionales
+o	Procedimentales 
+o	Funciones
+•	P.O.O
+•	Funcional 
+o	Funciones:
+	Primer orden
+•	Signar referencias de funciones a objetos
+	Alto orden: 
+•	puede recibir como parámetro otra funciones
+•	pueden ser pasadas como parámetro 
+o	Map
+o	Filter
+o	Reduce
+•	Pasar una función como parámetro
+•	Devolver una referencia a una función 
+o	Recursión -> iteración
+o	Funciones puras
+	Con los valores de entrada produce las mismas salidas
+	No modifica variables globales
+o	Variables son inmutables
+Nota: los lenguajes funcionales son declarativos. Para des comentar ctrl K+U
+
+Clase 3: 
+Programación funcional en Python
+1.	Colecciones en Python 
+a.	Listas
+•	Ordenados y mutables
+b.	tuplas 
+c.	diccionarios – se arman de la siguente forma =  pares{“key”:value}
+•	ordenados y mutables
+2.	Leer archivo plano (csv)
+3.	Construir “dataset” (lista de tuplas)
+4.	Funciones de alto orden
+a.	Map
+b.	Filter
+c.	Reduce
+Filter = aplica una función y verifica si cada elemento de la función cumple, funcione de pytho y devuelve valor booleana 
+Map=

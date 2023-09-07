@@ -1,0 +1,7 @@
+Unidad 1.
+Parcial 1: sept 7
+Github.com/dfloaizab/programminglanguages -> unidad 1
+Programación en Python “higher orden functions”
+•	Map = nos permite pasa campos a minúsculas
+•	Filter = nos permite filtrar 
+•	Reduce
